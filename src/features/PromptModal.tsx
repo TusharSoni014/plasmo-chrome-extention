@@ -57,7 +57,7 @@ export default function PromptModal({
         <div
           onClick={(e) => e.stopPropagation()}
           className="relative w-auto my-6 mx-auto">
-          <div className="rounded-[0.8rem] w-[750px] shadow-lg relative flex flex-col bg-[#F9FAFB] outline-none focus:outline-none ">
+          <div className="rounded-[0.8rem] max-w-[750px] w-screen shadow-lg relative flex flex-col bg-[#F9FAFB] outline-none focus:outline-none ">
             <div className="relative p-6 flex-auto text-4xl flex flex-col gap-5">
               {chat.length > 0 && (
                 <div className="__chat w-full p-5 gap-5">
