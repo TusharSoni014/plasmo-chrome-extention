@@ -1,6 +1,5 @@
 import cssText from "data-text:~style.css"
 import type { PlasmoCSConfig } from "plasmo"
-import { useState } from "react"
 
 import AiButton from "~features/AiButton"
 
