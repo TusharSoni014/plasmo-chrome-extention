@@ -13,3 +13,5 @@ npm run dev
 ```
 
 ## Demo Video
+https://github.com/TusharSoni014/plasmo-chrome-extention/assets/71227235/e549ce3c-87a2-447c-8250-effb4801147f
+
