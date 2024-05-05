@@ -1,11 +1,9 @@
-import { CountButton } from "~features/CountButton"
-
 import "~style.css"
 
 function IndexPopup() {
   return (
-    <div className="plasmo-flex plasmo-items-center plasmo-justify-center plasmo-h-16 plasmo-w-40">
-      <CountButton />
+    <div className="plasmo-flex flex-col plasmo-items-center plasmo-justify-center plasmo-h-16 w-[200px] p-5">
+      <p>Open Linkedin message page to see the input magic icon.</p>
     </div>
   )
 }
